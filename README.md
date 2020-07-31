@@ -1,4 +1,6 @@
 # SEG2105_A5
+
+
 Architecture: 
 
 This is the game of Housie, also known as Tambola or The Indian Bingo. In the game there is a moderator which speaks out random numbers from 1-90 and there are players who have tickets and they simultaneously cross out the numbers that match with the one chosen randomly the moderator. the person who crosses out all the numbers from his/her ticket wins the prize money.
@@ -22,6 +24,13 @@ To run:
 java Housie
 
 You will see a welcome message and it will prompt you to enter your name. After you enter your name you will be prompted to enter the number of opponents you want to play with. After you enter the number the game will automatically run and will give out the name of the winner and total money won in the end.
+
+User Stories:
+1.Game must be interactive.
+2.Game must be efficient and fast.
+3.Must have a moderator.
+4.Must have players.
+5.Players should have tickets with numbers to compare with the number chosen by the moderator.
 
 Hints to update:
 1.	Add a user interface in form of a mobile app or a web app.
