@@ -1,5 +1,6 @@
 # SEG2105_A5
 
+For tests and results and state diagram go to this link https://drive.google.com/file/d/1AnSE2bVYmnAP15J1oUoM64tbq1_lErbX/view?usp=sharing
 
 Architecture: 
 
